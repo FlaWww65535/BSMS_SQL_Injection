@@ -1,9 +1,5 @@
-# <font color="red"> This project has stopped to maintenance, please to https://github.com/knownsec/pocsuite3 project. </font>
 
-
-
-
-# Pocsuite
+# BSMS SQL Injection PoC with Pocsuite
 
 [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/knownsec/Pocsuite/master/docs/COPYING) [![Twitter](https://img.shields.io/badge/twitter-@seebug-blue.svg)](https://twitter.com/seebug_team) [![build](https://api.travis-ci.org/knownsec/Pocsuite.svg)](https://travis-ci.org/knownsec/Pocsuite)
 
@@ -12,6 +8,12 @@
 ## Overview
 
 Pocsuite is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many niche features for the ultimate penetration testers and security researchers.
+
+## Resource path
+./templates
+
+## Project link
+https://www.sourcecodester.com/php/15174/simple-bakery-shop-management-system-phpoop-free-source-code.html
 
 ## How to use
 
