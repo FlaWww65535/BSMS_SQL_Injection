@@ -7,6 +7,8 @@
 
 ## Overview
 
+This project prove a SQL Injection Vulnerability and write a script to verify batchwise.This project is based on Pocsuite.
+
 Pocsuite is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many niche features for the ultimate penetration testers and security researchers.
 
 ## Resource path
